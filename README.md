@@ -8,4 +8,4 @@ HACKATHON
 
 ## BLOCK_SIZE=128
 
-## GPT2LM(https://github.com/YashrajBaila7/GPT2LM)[LINK HERE]
+## GPT2LM [LINK HERE] (https://github.com/YashrajBaila7/GPT2LM) 
